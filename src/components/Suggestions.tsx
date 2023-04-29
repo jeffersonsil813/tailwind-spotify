@@ -16,7 +16,7 @@ export function Suggestions({
   return (
     <a
       href="#"
-      className="bg-white/5 p-3 rounded-md hover:bg-white/10 flex flex-col gap-2"
+      className="bg-white/5 p-3 rounded-md hover:bg-white/10 flex flex-col gap-2 transition-colors"
     >
       <Image
         className="w-full"
