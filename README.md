@@ -1,5 +1,4 @@
 <h1 align="center">Tailwind Spotify 🚀</h1>
-<br />
 
 <h3 align="center">Preview</h3>
 
