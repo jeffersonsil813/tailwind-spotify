@@ -14,17 +14,17 @@ import Image from "next/image";
 
 export function Footer() {
   return (
-    <footer className="bg-zinc-900 border-t border-zinc-700 px-6 py-4 flex items-center justify-between">
+    <footer className="bg-zinc-900 border-t border-zinc-700 px-6 py-4 flex flex-col items-center gap-3 lg:flex-row lg:justify-between">
       <div className="flex items-center gap-3">
         <Image
-          src="/album.jpg"
-          alt="Capa do álbum da Hillsong"
+          src="/images/this-is-our-god-album.jpg"
+          alt="Álbum This Is Our God"
           width={56}
           height={56}
         />
         <div className="flex flex-col">
-          <strong className="font-normal">Nome da música</strong>
-          <span className="text-xs text-zinc-500">artista nome</span>
+          <strong className="font-normal">This Is Our God</strong>
+          <span className="text-xs text-zinc-500">Hillsong Worship</span>
         </div>
       </div>
       <div className="flex flex-col items-center gap-2">
