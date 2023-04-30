@@ -25,4 +25,4 @@ Para o desenvolvimento desta aplicação utilizei as seguintes tecnologias:
 
 ## 📃 Licença
 
-Esse projeto está sob licença. Clique no arquivo [LICENÇA](https://github.com/jeffersonsil813/tailwind-spotify/blob/main/LICENSE.md) para ver mais detalhes.
+Esse projeto está sob licença. Clique no arquivo [LICENÇA](https://github.com/jeffersonsil813/tailwind-spotify/blob/main/LICENSE) para ver mais detalhes.
